@@ -1,0 +1,64 @@
+
+2019-01-11 22:40:36 INFO  com.wipro.tests.EbayTest:46 - Appium Server already running on Port - 4723
+2019-01-11 22:41:12 FATAL com.wipro.HelperMethods.HelperMethods:45 - Menu Item button does not displayed
+2019-01-11 22:41:14 INFO  com.wipro.tests.EbayTest:19 - 
+2019-01-11 22:41:14 INFO  com.wipro.tests.EbayTest:21 - settings Test Starts
+2019-01-11 22:42:08 INFO  com.wipro.tests.EbayTest:46 - Appium Server already running on Port - 4723
+2019-01-11 22:42:33 FATAL com.wipro.HelperMethods.HelperMethods:51 - Menu Item button does not Clicked
+2019-01-11 22:42:47 INFO  com.wipro.tests.EbayTest:19 - 
+2019-01-11 22:42:47 INFO  com.wipro.tests.EbayTest:21 - settings Test Starts
+2019-01-11 22:43:53 FATAL com.wipro.HelperMethods.HelperMethods:57 - Settings button does not displayed
+2019-01-11 22:43:53 INFO  com.wipro.tests.EbayTest:46 - Appium Server already running on Port - 4723
+2019-01-11 22:44:38 INFO  com.wipro.tests.EbayTest:19 - 
+2019-01-11 22:44:38 INFO  com.wipro.tests.EbayTest:21 - settings Test Starts
+2019-01-11 22:44:40 INFO  com.wipro.HelperMethods.HelperMethods:41 - Menu Item button displayed
+2019-01-11 22:44:42 INFO  com.wipro.HelperMethods.HelperMethods:43 - Clicked on Menu Item button, Settings and Country buttons
+2019-01-11 22:45:21 INFO  com.wipro.tests.EbayTest:40 - Login Test Starts
+2019-01-11 22:45:23 INFO  com.wipro.HelperMethods.HelperMethods:128 - Sign In Button does not displayed
+2019-01-11 22:45:25 INFO  com.wipro.HelperMethods.HelperMethods:138 - Sign In Button does not displayed
+2019-01-11 22:45:31 INFO  com.wipro.tests.EbayTest:56 - SearchProduct Test
+2019-01-11 22:45:34 INFO  com.wipro.tests.EbayTest:46 - Appium Server already running on Port - 4723
+2019-01-11 22:45:39 INFO  com.wipro.tests.EbayTest:98 - AddToKart is displayed
+2019-01-11 22:45:41 INFO  com.wipro.tests.EbayTest:106 - Color dropDown  does not displayed
+2019-01-11 22:45:43 INFO  com.wipro.tests.EbayTest:113 - Add Basket does not displayed 
+2019-01-11 22:46:29 INFO  com.wipro.tests.EbayTest:19 - 
+2019-01-11 22:46:29 INFO  com.wipro.tests.EbayTest:21 - settings Test Starts
+2019-01-11 22:46:33 INFO  com.wipro.HelperMethods.HelperMethods:41 - Menu Item button displayed
+2019-01-11 22:46:34 INFO  com.wipro.HelperMethods.HelperMethods:43 - Clicked on Menu Item button, Settings and Country buttons
+2019-01-11 22:46:37 INFO  com.wipro.HelperMethods.HelperMethods:54 - Settings button displayed
+2019-01-11 22:46:40 INFO  com.wipro.HelperMethods.HelperMethods:61 - Country button displayed
+2019-01-11 22:46:43 INFO  com.wipro.HelperMethods.HelperMethods:64 - Get Text of Toggle button : ON
+2019-01-11 22:46:43 INFO  com.wipro.HelperMethods.HelperMethods:66 - Auto Detect Toggle button is ON
+2019-01-11 22:46:45 INFO  com.wipro.HelperMethods.HelperMethods:72 - Country Region button displayed
+2019-01-11 22:46:46 INFO  com.wipro.HelperMethods.HelperMethods:74 - Clicked on Country/Region button
+2019-01-11 22:46:48 INFO  com.wipro.HelperMethods.HelperMethods:79 - enter country text filed displayed
+2019-01-11 22:46:56 INFO  com.wipro.HelperMethods.HelperMethods:81 - Entered Country in search country filed : United States
+2019-01-11 22:46:57 INFO  com.wipro.HelperMethods.HelperMethods:86 - enter country text filed displayed
+2019-01-11 22:47:13 INFO  com.wipro.HelperMethods.HelperMethods:88 - Entered Country in search country filed : United States
+2019-01-11 22:47:14 INFO  com.wipro.HelperMethods.HelperMethods:93 - United StatesCountry/Region is displayed
+2019-01-11 22:47:15 INFO  com.wipro.HelperMethods.HelperMethods:95 - United StatesClicked ...
+2019-01-11 22:47:17 INFO  com.wipro.HelperMethods.HelperMethods:100 - United StatesBack button is displayed
+2019-01-11 22:47:18 INFO  com.wipro.HelperMethods.HelperMethods:102 - Back button is clicked
+2019-01-11 22:47:22 INFO  com.wipro.tests.EbayTest:40 - Login Test Starts
+2019-01-11 22:47:23 INFO  com.wipro.HelperMethods.HelperMethods:124 - Sign In Button is displayed
+2019-01-11 22:47:24 INFO  com.wipro.HelperMethods.HelperMethods:126 - Sign In Button Clicked ...
+2019-01-11 22:47:35 INFO  com.wipro.HelperMethods.HelperMethods:132 - Entered User Name ...
+2019-01-11 22:47:42 INFO  com.wipro.HelperMethods.HelperMethods:134 - Entered Password ...
+2019-01-11 22:47:44 INFO  com.wipro.HelperMethods.HelperMethods:136 - Sign In Button Clicked ...
+2019-01-11 22:47:51 INFO  com.wipro.tests.EbayTest:44 - Google Pop up Clicked
+2019-01-11 22:47:53 INFO  com.wipro.tests.EbayTest:56 - SearchProduct Test
+2019-01-11 22:47:54 INFO  com.wipro.tests.EbayTest:58 - Search Text field is dispayed
+2019-01-11 22:47:55 INFO  com.wipro.tests.EbayTest:60 - Search Text field is Clicked
+2019-01-11 22:47:56 INFO  com.wipro.tests.EbayTest:62 - Product Search Text field is dispayed
+2019-01-11 22:48:04 INFO  com.wipro.tests.EbayTest:64 -  Product name entered in search text fiels
+2019-01-11 22:48:07 INFO  com.wipro.tests.EbayTest:69 - Iphone 5 is dispayed
+2019-01-11 22:48:10 INFO  com.wipro.tests.EbayTest:71 - Clicked Iphone 5
+2019-01-11 22:48:20 INFO  com.wipro.tests.EbayTest:76 - Iphone 5 is listed 
+2019-01-11 22:48:22 INFO  com.wipro.tests.EbayTest:78 - Clicked Iphone 5 from listed product
+2019-01-11 22:48:27 INFO  com.wipro.tests.EbayTest:94 - AddToKart is displayed 
+2019-01-11 22:48:33 INFO  com.wipro.tests.EbayTest:96 - Clicked AddToKart button
+2019-01-11 22:48:35 INFO  com.wipro.tests.EbayTest:101 - Color dropDown displayed
+2019-01-11 22:48:43 INFO  com.wipro.tests.EbayTest:104 - Choosen Carrier,Selected Color, Storage and Grade from dropDown
+2019-01-11 22:48:44 INFO  com.wipro.tests.EbayTest:109 - Add Basket is displayed 
+2019-01-11 22:48:46 INFO  com.wipro.tests.EbayTest:111 - Clicked Add Basket button
+2019-01-11 22:48:51 INFO  com.wipro.tests.EbayTest:152 - Suite Execution is Completed

@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Group Test Suite" verbose="1">
+  <test name="Group Test" >
+    <groups>
+      <run>
+        <include name="ebay-test" />
+      </run>
+    </groups>
+
+    <classes>
+      <class name="com.wipro.tests.EbayTest" />
+    </classes>
+  </test>
+</suite>
